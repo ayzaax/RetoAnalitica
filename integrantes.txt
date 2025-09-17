@@ -1,4 +1,10 @@
 Integrantes del equipo #2
+<<<<<<< HEAD
 A01234692 Sylvie Zabetoglu 
 A01743934 Ximena Felix Perez
 A00841426 David Alejandro Valdez Caballero 
+A01572273 Samuel Guerrero Morales
+=======
+A01234692 Sylvie Zabetoglu
+A01572273 Samuel Guerrero
+>>>>>>> a43cca2 (Agregue mi nombre)
